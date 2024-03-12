@@ -1,6 +1,5 @@
 # AI Text2Image iOS App with Generated OpenAI OpenAPI Swift Client 
 
-![alt text](https://i.ibb.co/9yqxssY/promo.png)
 
 ## Features
 - Convert Text prompt to AI generated Image
